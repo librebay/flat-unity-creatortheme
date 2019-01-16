@@ -17,6 +17,9 @@ alternateBackground=ff515151
 error=ffdf4f4f
 warning=ffecbc1c
 splitter=ff313131
+textColorLink=ff007af4
+textColorLinkVisited=ffa57aff
+backgroundColorDisabled=ff444444
 qmlDesignerButtonColor=ff4c4e50
 
 [Colors]
@@ -24,7 +27,7 @@ BackgroundColorAlternate=alternateBackground
 BackgroundColorDark=shadowBackground
 BackgroundColorHover=hoverBackground
 BackgroundColorNormal=normalBackground
-BackgroundColorDisabled=ff444444
+BackgroundColorDisabled=backgroundColorDisabled
 BackgroundColorSelected=selectedBackground
 BadgeLabelBackgroundColorChecked=ffe0e0e0
 BadgeLabelBackgroundColorUnchecked=ff808080
@@ -119,8 +122,8 @@ TextColorDisabled=textDisabled
 TextColorError=ffff4040
 TextColorHighlight=ffff0000
 TextColorHighlightBackground=ffef0b
-TextColorLink=ff007af4
-TextColorLinkVisited=ffa57aff
+TextColorLink=textColorLink
+TextColorLinkVisited=textColorLinkVisited
 TextColorNormal=text
 ToggleButtonBackgroundColor=shadowBackground
 ToolBarBackgroundColor=shadowBackground
@@ -207,6 +210,25 @@ QmlDesigner_TabLight=ffffffff
 QmlDesigner_FormeditorBackgroundColor=qmlDesignerButtonColor
 QmlDesigner_AlternateBackgroundColor=qmlDesignerButtonColor
 QmlDesigner_ScrollBarHandleColor=ff595b5c
+
+PaletteWindow=normalBackground
+PaletteWindowText=text
+PaletteBase=normalBackground
+PaletteAlternateBase=alternateBackground
+PaletteButton=shadowBackground
+PaletteText=text
+PaletteButtonText=text
+PaletteButtonTextDisabled=textDisabled
+PaletteToolTipBase=selectedBackground
+PaletteHighlight=selectedBackground
+PaletteDark=shadowBackground
+PaletteToolTipText=text
+PaletteLink=textColorLink
+PaletteLinkVisited=textColorLinkVisited
+PaletteWindowDisabled=backgroundColorDisabled
+PaletteWindowTextDisabled=textDisabled
+PaletteBaseDisabled=backgroundColorDisabled
+PaletteTextDisabled=textDisabled
 
 [Flags]
 ComboBoxDrawTextShadow=false

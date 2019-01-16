@@ -233,17 +233,17 @@ PaletteTextDisabled=textDisabled
 
 [Flags]
 ComboBoxDrawTextShadow=false
-DerivePaletteFromTheme=false
+DerivePaletteFromTheme=true
 DrawIndicatorBranch=true
 DrawSearchResultWidgetFrame=false
 DrawTargetSelectorBottom=false
 DrawToolBarHighlights=false
 DrawToolBarBorders=false
-ApplyThemePaletteGlobally=false
+ApplyThemePaletteGlobally=true
 FlatToolBars=true
 FlatSideBarIcons=true
-FlatProjectsMode=false
-FlatMenuBar=false
+FlatProjectsMode=true
+FlatMenuBar=true
 ToolBarIconShadow=true
 WindowColorAsBase=false
 DarkUserInterface=false

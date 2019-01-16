@@ -215,24 +215,8 @@ QmlDesigner_FormeditorBackgroundColor=qmlDesignerButtonColor
 QmlDesigner_AlternateBackgroundColor=qmlDesignerButtonColor
 QmlDesigner_ScrollBarHandleColor=ff595b5c
 
-PaletteWindow=normalBackground
-PaletteWindowText=text
-PaletteBase=normalBackground
-PaletteAlternateBase=alternateBackground
-PaletteButton=shadowBackground
-PaletteText=text
-PaletteButtonText=text
-PaletteButtonTextDisabled=textDisabled
-PaletteToolTipBase=selectedBackground
-PaletteHighlight=selectedBackground
-PaletteDark=shadowBackground
-PaletteToolTipText=text
-PaletteLink=textColorLink
-PaletteLinkVisited=textColorLinkVisited
-PaletteWindowDisabled=backgroundColorDisabled
-PaletteWindowTextDisabled=textDisabled
-PaletteBaseDisabled=backgroundColorDisabled
-PaletteTextDisabled=textDisabled
+PaletteToolTipBase=unitySelect
+PaletteHighlight=unitySelect
 
 [Flags]
 ComboBoxDrawTextShadow=false

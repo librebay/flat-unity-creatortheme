@@ -1,6 +1,7 @@
 [General]
 ThemeName=Flat Unity
 PreferredStyles=
+DefaultTextEditorColorScheme=default.xml
 
 [Palette]
 shadowBackground=ff404244

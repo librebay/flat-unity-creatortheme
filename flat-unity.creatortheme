@@ -22,6 +22,8 @@ textColorLink=ff007af4
 textColorLinkVisited=ffa57aff
 backgroundColorDisabled=ff444444
 qmlDesignerButtonColor=ff4c4e50
+unityMenuBackground=ff3c3b37
+unityMenuColor=ffd0d0d0
 
 [Colors]
 BackgroundColorAlternate=alternateBackground
@@ -98,10 +100,10 @@ IconsCodeModelOverlayBackgroundColor=70ffffff
 IconsCodeModelOverlayForegroundColor=ff232425
 InfoBarBackground=ffffffe1
 InfoBarText=text
-MenuBarEmptyAreaBackgroundColor=shadowBackground
-MenuBarItemBackgroundColor=shadowBackground
-MenuBarItemTextColorDisabled=textDisabled
-MenuBarItemTextColorNormal=text
+MenuBarEmptyAreaBackgroundColor=unityMenuBackground
+MenuBarItemBackgroundColor=unityMenuBackground
+MenuBarItemTextColorDisabled=toolBarItemDisabled
+MenuBarItemTextColorNormal=unityMenuColor
 MenuItemTextColorDisabled=textDisabled
 MenuItemTextColorNormal=text
 MiniProjectTargetSelectorBackgroundColor=shadowBackground

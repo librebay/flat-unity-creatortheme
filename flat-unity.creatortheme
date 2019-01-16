@@ -22,6 +22,7 @@ textColorLink=ff007af4
 textColorLinkVisited=ffa57aff
 backgroundColorDisabled=ff444444
 qmlDesignerButtonColor=ff4c4e50
+unitySelect=ffee7747
 unityMenuBackground=ff3c3b37
 unityMenuColor=ffd0d0d0
 
@@ -202,7 +203,7 @@ CodeModel_Warning_TextMarkColor=warning
 
 QmlDesigner_BackgroundColor=qmlDesignerButtonColor
 QmlDesigner_HighlightColor=ff46a2da
-QmlDesigner_FormEditorSelectionColor=ff4ba2ff
+QmlDesigner_FormEditorSelectionColor=unitySelect
 QmlDesigner_FormEditorForegroundColor=ffffffff
 QmlDesigner_BackgroundColorDarkAlternate=qmlDesignerButtonColor
 QmlDesigner_BackgroundColorDarker=ff262728

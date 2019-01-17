@@ -1,4 +1,4 @@
-Тема оформления для Qt Creator 4+
+Тема оформления для Qt Creator 4+ близкая к теме Ambiance
 
 ![flat-unity](flat-unity-creatortheme.png)
 

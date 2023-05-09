@@ -30,9 +30,21 @@ unityMenuColor=ffd0d0d0
 ;DS controls theme START
 DSpanelBackground=ff323232
 
+DSwelcomeScreenBackground=ff242424
+DSsubPanelBackground=ff1c1c1c
+DSthumbnailBackground=ff232323
+DSthumbnailLabelBackground=ff2b2a2a
+
+DSgreenLight=ff5cdc68
+DSamberLight=ffffbf00
+DSredLight=ffff0401
+
 DSinteraction=ff2aafd3
 DSerrorColor=ffdf3a3a
+DSwarningColor=warning
 DSdisabledColor=ff707070
+
+DSinteractionHover=ff74cbfc
 
 DScontrolBackground=ff323232
 DScontrolBackgroundInteraction=ff595959
@@ -86,6 +98,9 @@ DSstateDefaultHighlight=ffffe400
 DSstateSeparatorColor=ff7c7b7b
 DSstateBackgroundColor=ff383838
 DSstatePreviewOutline=ffaaaaaa
+
+DSstatePanelBackground=ff252525
+DSstateHighlight=ff727272
 
 DSchangedStateText=ff99ccff
 
@@ -156,6 +171,11 @@ DStableViewAlternateBackground=ff00ff00
 DStoolTipBackground=ff111111
 DStoolTipOutline=ffdadada
 DStoolTipText=ffdadada
+
+DSUnimportedModuleColor=ffe33c2e
+
+DSBackgroundColorAlternate=alternateBackground
+DSBackgroundColorNormal=normalBackground
 
 ;DS controls theme END
 
@@ -298,12 +318,12 @@ Debugger_Breakpoint_TextMarkColor=ffff4040
 
 Welcome_TextColor=ff000000
 Welcome_ForegroundPrimaryColor=shadowBackground
-Welcome_ForegroundSecondaryColor=ff727476
-Welcome_BackgroundColor=normalBackground
-Welcome_ButtonBackgroundColor=normalBackground
-Welcome_DividerColor=ffd6d6d6
-Welcome_HoverColor=fff6f6f6
-Welcome_LinkColor=ff5caa15
+Welcome_ForegroundSecondaryColor=ff939393
+Welcome_BackgroundPrimaryColor=fffafafa
+Welcome_BackgroundSecondaryColor=ffffffff
+Welcome_HoverColor=ffefefef
+Welcome_AccentColor=ff45ce55
+Welcome_LinkColor=ff20a020
 Welcome_DisabledLinkColor=textDisabled
 
 Timeline_TextColor=text
